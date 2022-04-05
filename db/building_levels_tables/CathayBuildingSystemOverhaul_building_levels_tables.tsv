@@ -1,0 +1,11 @@
+level_name	chain	level	create_time	create_cost	upkeep_cost	commodity	only_in_capital	faction_unique	first_in_world_bundle	can_convert	building_instance_key	should_show_building_level_in_ui_for_technology	health_override	development_point_cost	can_be_damaged	primary_slot_building_building_level_requirement	audio_building_type	visible_in_ui	food_cost	slave_cap_contribution	resource_cost	additional_loot_value
+#building_levels_tables;0;db/building_levels_tables/CathayBuildingSystemOverhaul_building_levels_tables																						
+wh3_main_cth_cavalry_2	wh3_main_cth_cavalry	1	2	1000	0		false	false		true	wh3_main_cth_cavalry	false	0.0	0	true	2		true	0	0		0
+wh3_main_cth_cavalry_3	wh3_main_cth_cavalry	2	4	4000	0		false	false		true	wh3_main_cth_cavalry	false	0.0	0	true	4		true	0	0		0
+wh3_main_cth_gunners_1	wh3_main_cth_gunners	0	1	500	0		false	false		true	wh3_main_cth_gunners	false	0.0	0	true	1		true	0	0		0
+wh3_main_special_the_ninth_wall_foundation	wh3_main_special_the_ninth_wall	0	2	1000	0		false	false		true	wh3_main_special_the_ninth_wall	false	0.0	0	true	3		true	0	0		0
+wh3_main_special_the_ninth_wall_rough_framing	wh3_main_special_the_ninth_wall	1	3	3000	0		false	false		true	wh3_main_special_the_ninth_wall	false	0.0	0	true	4		true	0	0		0
+wh3_main_special_the_ninth_wall	wh3_main_special_the_ninth_wall	2	4	6000	0		false	false		true	wh3_main_special_the_ninth_wall	false	0.0	0	true	5		true	0	0		0
+wh3_mod_special_the_workshop_of_kunlan_1	wh3_mod_special_the_workshop_of_kunlan	0	1	500	0		false	false		true	wh3_mod_special_the_workshop_of_kunlan	false	0.0	0	true	1		true	0	0		0
+wh3_mod_special_the_workshop_of_kunlan_2	wh3_mod_special_the_workshop_of_kunlan	1	2	1000	0		false	false		true	wh3_mod_special_the_workshop_of_kunlan	false	0.0	0	true	2		true	0	0		0
+wh3_mod_special_the_workshop_of_kunlan_3	wh3_mod_special_the_workshop_of_kunlan	2	4	2000	0		false	false		true	wh3_mod_special_the_workshop_of_kunlan	false	0.0	0	true	3		true	0	0		0

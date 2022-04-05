@@ -1,0 +1,5 @@
+key	building	unit	xp	conditions	faction	enabled
+#building_units_allowed_tables;4;db/building_units_allowed_tables/CathayBuildingSystemOverhaul_building_units_allowed_tables						
+220310170	wh3_main_special_the_temple_of_the_two_moons	wh3_main_cth_inf_dragon_guard_0	0	0		false
+220310171	wh3_main_special_the_temple_of_the_two_moons	wh3_main_cth_inf_dragon_guard_crossbowmen_0	0	0		false
+220310172	wh3_main_special_grand_observatory_of_xing_po	wh3_main_cth_veh_war_compass_0	0	0		false
